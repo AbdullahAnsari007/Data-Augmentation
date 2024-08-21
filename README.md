@@ -1,0 +1,1 @@
+This code provides a resizing technique in which it will resize that much images you want. It will start from small resizing factor then resizing factor increases by every iteration. You can modify according to your need also you can make changes in code for resizing 1 image to multiple images or folders.
